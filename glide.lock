@@ -1,0 +1,14 @@
+hash: 0b2bd7e7ce83c5d61b0801e70b5ad6a5a8f56b0b768a49dffc39c1e699991302
+updated: 2016-10-08T11:25:01.399374782-03:00
+imports:
+- name: github.com/go-macaron/inject
+  version: d8a0b8677191f4380287cfebd08e462217bac7ad
+- name: github.com/go-sql-driver/mysql
+  version: a732e14c62dde3285440047bba97581bc472ae18
+- name: github.com/Unknwon/com
+  version: 28b053d5a2923b87ce8c5a08f3af779894a72758
+- name: gopkg.in/ini.v1
+  version: 6e4869b434bd001f6983749881c7ead3545887d8
+- name: gopkg.in/macaron.v1
+  version: 4974334b10dbb6f5c0e17f4c10555ff050a16329
+testImports: []
